@@ -1,5 +1,6 @@
 ### Hi there 👋,I'm Jaimin Rana
 <hr>
+<h2>B.Tech | Computer Engineering | Charusat</h2>
 
 
  
