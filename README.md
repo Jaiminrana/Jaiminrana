@@ -6,12 +6,13 @@
 
  
 
-- 🔭 I’m currently working on E-jewellery
-- 🌱 I’m currently learning flutter
+-  🔭 I’m currently working on E-jewellery
+-  🌱 I’m currently learning flutter
+-  💬 Ask me about new technology related to smart-phone.
+-  📫 How to reach me:LinkedIn-(36) jaimin rana | |Twitter-twitter
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about new technology related to smart-phone.
-<!-- - 📫 How to reach me: ...
+<!-- -  ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
