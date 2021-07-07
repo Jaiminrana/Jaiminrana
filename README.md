@@ -10,6 +10,8 @@
 -  🌱 I’m currently learning flutter
 -  💬 Ask me about new technology related to smart-phone.
 -  📫 How to reach me:[linkedIn](https://www.linkedin.com/in/jaimin-rana-2bb531186/) || [twitter](https://twitter.com/jaiminRana10)
+
+![.](https://camo.githubusercontent.com/494c3f43c7e2d9bf9a70a27b8eb00c4d705bb703654904c9324c50a5d6452529/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d64656e6973682d72616e7061726979612673686f775f69636f6e733d74727565266c6f63616c653d656e)
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- -  ...
