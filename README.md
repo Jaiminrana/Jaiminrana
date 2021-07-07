@@ -11,7 +11,7 @@
 <p align="left">
 <a  href="https://twitter.com/jaiminRana10" target="_blank"><img align="center" src="https://seeklogo.com/images/T/twitter-2012-negative-logo-5C6C1F1521-seeklogo.com.png" alt="jaiminRana10" height="30" width="40" /></a><a style="color:white" href="https://www.linkedin.com/in/jaimin-rana-2bb531186/" target="_blank"><img align="center" src="https://image.shutterstock.com/image-photo/kiev-ukraine-june-7-2015-600w-285114926.jpg" alt="jaimin-rana-2bb531186/" height="30" width="40" /></a>
  <a style="color:white" href="https://auth.geeksforgeeks.org/user/jaiminrana8080/practice/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1024px-GeeksforGeeks.svg.png" alt="denish1512/practice/" height="30" width="40" /></a>
-<a style="color:white" href="https://www.codechef.com/users/jaimin8080" target="_blank"><img align="center" src="https://static.dribbble.com/users/70628/screenshots/1743345/codechef.png" alt="jaimin8080" height="30" width="40" /></a>
+<a style="color:white" href="https://www.codechef.com/users/jaimin8080" target="_blank"><img align="center" src="https://th.bing.com/th/id/R.9eb42e2bff74ac853f3a632fb3458adf?rik=BUVbN84Qb9BciA&riu=http%3a%2f%2ftechnofall.com%2fwp-content%2fuploads%2f2016%2f07%2fCodeChef-logo-1024x724.jpeg&ehk=vmkrI6beYeDlKqFXEhz1aVXwDlr6pvqO3AcSt4Ho%2fAQ%3d&risl=&pid=ImgRaw" alt="jaimin8080" height="30" width="40" /></a>
 </p>   
 
   
