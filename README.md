@@ -9,7 +9,7 @@
 -  🔭 I’m currently working on E-jewellery
 -  🌱 I’m currently learning flutter
 -  💬 Ask me about new technology related to smart-phone.
--  📫 How to reach me:LinkedIn-(36) jaimin rana | |Twitter-twitter
+-  📫 How to reach me:Linkedin-[(36) jaimin rana | LinkedIn] || Twitter-[twitter]
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- -  ...
