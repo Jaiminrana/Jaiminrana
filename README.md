@@ -1,7 +1,7 @@
 ### <h1>Hi there 👋,I'm Jaimin Rana<h1>
 <hr>
 <h2>B.Tech | Computer Engineering | Charusat</h2>
-<hr><hr>
+ 
 
  
 
