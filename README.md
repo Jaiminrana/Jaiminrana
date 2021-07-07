@@ -10,7 +10,7 @@
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a  href="https://twitter.com/jaiminRana10" target="_blank"><img align="center" src="https://seeklogo.com/images/T/twitter-2012-negative-logo-5C6C1F1521-seeklogo.com.png" alt="jaiminRana10" height="30" width="40" /></a><a style="color:white" href="https://www.linkedin.com/in/jaimin-rana-2bb531186/" target="_blank"><img align="center" src="https://image.shutterstock.com/image-photo/kiev-ukraine-june-7-2015-600w-285114926.jpg" alt="jaimin-rana-2bb531186/" height="30" width="40" /></a>
-<a style="color:white" href="https://www.codechef.com/users/jaimin8080" target="_blank"><img align="center" src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" alt="jaimin8080" height="30" width="40" /></a><a style="color:white" href="https://auth.geeksforgeeks.org/user/jaiminrana8080/practice/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="denish1512/practice/" height="30" width="40" /></a>
+<a style="color:white" href="https://www.codechef.com/users/jaimin8080" target="_blank"><img align="center" src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" alt="jaimin8080" height="40" width="30" /></a><a style="color:white" href="https://auth.geeksforgeeks.org/user/jaiminrana8080/practice/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1024px-GeeksforGeeks.svg.png" alt="denish1512/practice/" height="30" width="40" /></a>
 </p>   
 
   
