@@ -34,7 +34,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaiminrana&theme=light&hide_langs_below=1" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaiminrana&" alt="denish-ranpariya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaiminrana&" alt="Jaiminrana" /></p>
 
 ![github ststs](https://github-readme-stats.vercel.app/api?username=Jaiminrana&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
