@@ -1,10 +1,21 @@
 <h1 align="center">Hi there 👋,I'm Jaimin Rana</h1>
 <h2 align="center">B.Tech Student | Computer Engineering | Charusat</h2>
  
- -  🔭 I’m currently working on **E-jewellery app**
+-  🔭 I’m currently working on **E-jewellery app**
 -  🌱 I’m currently learning **Flutter**
 -  💬 Ask me about new technology related to smart-phone.
--  📫 How to reach me:[linkedIn](https://www.linkedin.com/in/jaimin-rana-2bb531186/) || [twitter](https://twitter.com/jaiminRana10)
+-  📫 How to reach me:**jaiminrana8080@gmail.com**
+
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/jaiminRana10" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jaiminRana10" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jaimin-rana-2bb531186/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jaimin-rana-2bb531186/" height="30" width="40" /></a>
+ 
+<a href="https://www.codechef.com/users/jaimin8080" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jaimin8080" height="30" width="40" /></a>
+ 
+  
+<a href="https://auth.geeksforgeeks.org/user/jaiminrana8080/practice/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="denish1512/practice/" height="30" width="40" /></a>
+</p>   
 
   
 <h3 align="left">Languages and Tools:</h3>
